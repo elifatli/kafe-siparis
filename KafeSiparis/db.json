@@ -1,0 +1,162 @@
+{
+  "parents": [
+    {
+      "id": 1,
+      "name": "başlangıçlar"
+    },
+    {
+      "id": 2,
+      "name": "ana yemek"
+    },
+    {
+      "id": 3,
+      "name": "tatlı"
+    },
+    {
+      "id": 4,
+      "name": "içecek"
+    }
+  ],
+  "menus": [
+    {
+      "id": "1",
+      "parent": "1",
+      "type": "çorba",
+      "price": "12",
+      "img": "https://cdn.yemek.com/mnresize/940/940/uploads/2020/02/beyran-corbasi-yemekcom.jpg"
+    },
+    {
+      "id": "2",
+      "parent": "1",
+      "type": "içli köfte",
+      "price": "8",
+      "img": "https://im.haberturk.com/2020/05/11/ver1589172823/2675042_810x458.jpg"
+    },
+    {
+      "id": "3",
+      "parent": "1",
+      "type": "başlangıç tabağı",
+      "price": "12",
+      "img": "https://i.pinimg.com/originals/42/ca/db/42cadbedbf80ecbcd8af82ad3d11f7e0.jpg"
+    },
+    {
+      "id": "4",
+      "parent": "2",
+      "type": "kırmızı et yemeği",
+      "price": "40",
+      "img": "https://i4.hurimg.com/i/hurriyet/75/750x422/55ea9cb6f018fbb8f88b5ea5.jpg"
+    },
+    {
+      "id": "5",
+      "parent": "2",
+      "type": "beyaz et yemeği",
+      "price": "28",
+      "img": "https://www.garsonsukru.com/thumb/resimler/urun/-1559391452.98321.jpg/w800/h800/zc1"
+    },
+    {
+      "id": "6",
+      "parent": "3",
+      "type": "kazandibi",
+      "price": "15",
+      "img": "https://img3.aksam.com.tr/imgsdisk/2019/08/09/090820190913596939921_2.jpg"
+    },
+    {
+      "id": "7",
+      "parent": "4",
+      "type": "koko",
+      "price": "3",
+      "img": "https://imgrosetta.mynet.com.tr/file/1488103/1488103-728xauto.jpg"
+    },
+    {
+      "parent": "4",
+      "type": "türk kahvesi",
+      "price": "6",
+      "img": "https://iasbh.tmgrup.com.tr/d50d6f/800/420/0/102/800/522?u=https://isbh.tmgrup.com.tr/sbh/2018/05/01/turk-kahvesinin-faydalari-nelerdir-turk-kahvesi-nasil-yapilir-1525160577297.jpg",
+      "id": "b2fhLsi"
+    },
+    {
+      "parent": "2",
+      "type": "çupra",
+      "price": "38",
+      "img": "https://i2.milimaj.com/i/milliyet/75/1200x675/5e9ca65e55427e14541f6d9c.jpg",
+      "id": "dIKqtvJ"
+    },
+    {
+      "parent": "4",
+      "type": "Fanta",
+      "price": "5",
+      "img": "https://ayb.akinoncdn.com/products/2019/02/14/1658/f05a42ea-01bd-4e84-a8b3-72e050eb6938_size780x780_quality60_cropCenter.jpg",
+      "id": "JEQBm3Y"
+    },
+    {
+      "parent": "3",
+      "type": "kemal paşa",
+      "price": "23",
+      "img": "https://lezzet.blob.core.windows.net/images-xxlarge-recipe/kemalpasa_tatlisi-2c9bc9ca-651e-41d2-ba96-a22acae972a8.jpg",
+      "id": "UmYaopt"
+    },
+    {
+      "parent": "1",
+      "type": "peynir tabağı",
+      "price": "45",
+      "img": "https://ecezaim.com.tr/wp-content/uploads/2018/12/Peynir-Taba%C4%9F%C4%B1-nas%C4%B1l-haz%C4%B1rlan%C4%B1r.jpg",
+      "id": "nwg34t3"
+    },
+    {
+      "parent": "2",
+      "type": "hamburger",
+      "price": "35",
+      "img": "https://www.lezzetlizamanlar.com/wp-content/uploads/2019/03/hamburger1-770x1024.jpg",
+      "id": "EQA_S8a"
+    },
+    {
+      "parent": "3",
+      "type": "Sütlaç",
+      "price": "12",
+      "img": "https://pbs.twimg.com/media/EqHEXwpXIAEoZQK.jpg",
+      "id": "ygxXET4"
+    }
+  ],
+  "tables": [
+    {
+      "id": "1",
+      "orders": [],
+      "status": "empty"
+    },
+    {
+      "id": "2",
+      "orders": [],
+      "status": "empty"
+    },
+    {
+      "id": "3",
+      "orders": [],
+      "status": "empty"
+    },
+    {
+      "id": "4",
+      "orders": [],
+      "status": "empty"
+    },
+    {
+      "id": "5",
+      "orders": [],
+      "status": "empty"
+    },
+    {
+      "id": "6",
+      "orders": [],
+      "status": "empty"
+    },
+    {
+      "id": "7",
+      "orders": [],
+      "status": "empty"
+    },
+    {
+      "id": "8",
+      "orders": [],
+      "status": "empty"
+    }
+  ]
+}
